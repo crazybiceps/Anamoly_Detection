@@ -1,5 +1,4 @@
 # detect anomalies in healthcare claims data                   ----
-# authors: Srikanth KS, Maras Kawaljeet
 
 # load libraries                                               ----
 source("https://tinyurl.com/libraryQ")
