@@ -82,9 +82,3 @@ get_scores <- function(k){
 print(get_scores(30))
 # observe that 13, 14, 15 th rows are the anomalies
 rm(list = ls())
-
-
-
-# My try                                                       ----
-input %>% group_by(doctor, speciality) %>% summarise(n()) %>% View
-
